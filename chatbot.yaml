@@ -23,6 +23,9 @@ injector:
     bot_name: "KTSM_Check_bot"
     bot_token: "6239860542:AAGFO6SU1Cx_leF95Sx8PmTPkCx_Fpc3InI"
     time_of_cleaning_checklist: "21:30:00"
+#    https://docs.google.com/spreadsheets/d/1_oxYE0_dRgLphd2CffIGk_VBdLW9xDaQ8oy88HyVy4w/edit#gid=0
+#   507dc3c0-dad6-4161-9a13-fae6659ab20a
+
 
 # Пороговые значения классификатора
 # Подробнее: https://help.just-ai.com/docs/ru/common/bot_structure/configuration_file#porogovie-znacheniya-klassifikatora
